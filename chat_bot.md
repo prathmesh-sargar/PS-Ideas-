@@ -1,4 +1,4 @@
-# 🤖 Create Your Own Custom Chatbot Using Botpress
+# 🤖 Create Your Own Custom Chatbot Using Botpress it is not free long term remember it !
 
 This guide helps you create and embed your very own chatbot using [Botpress](https://botpress.com/) — a powerful no-code platform for building AI chatbots. You only need basic HTML knowledge to follow along!
 
